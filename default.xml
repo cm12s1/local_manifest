@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-  <default revision="cm-12.0"
-           remote="github"
-           sync-c="true"
-           sync-j="4" />
-
   <project path="device/samsung/vibrantmtd" name="cm12s1/android_device_samsung_vibrantmtd" remote="github" revision="cm-12.0" />
   <project path="hardware/samsung/" name="cm12s1/android_hardware_samsung" />
   <project path="device/samsung/aries-common/" name="cm12s1/android_device_samsung_aries-common" />
